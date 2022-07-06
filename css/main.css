@@ -510,7 +510,7 @@ strong
 .about-directors::before{
   position: absolute;
   top: 0%;
-  left: -6%;
+  left: calc(50% - 1053px);
   background-image: url("../images/delivering-bottom.svg");
   width: 200px;
   height: 200px;
